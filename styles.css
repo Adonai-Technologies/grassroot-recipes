@@ -9,18 +9,18 @@ div{
  * {
    color: white;
    text-align: center;
-   border: 2px solid rgb(9, 255, 0);
-   padding: auto;
+   
    
  } 
 
 p{
     background-color: green;
     font-size: 18px;
+    border-radius: 0%;
  }
 
  button{
-    background-color: orange;
+    background-color: rgb(255, 0, 212);
     font-size: 18px;
  }
 
@@ -61,12 +61,7 @@ p{
    color: white;
  }
  
- .fancy {
-   background-color: yellow;
-  
- }
-
- h2{
+h2{
   color:black
   
  }
