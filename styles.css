@@ -1,5 +1,5 @@
 div{
-   background-color: red;
+   background-color: rgb(255, 38, 0);
    font-size: 32px;
    text-align: center; 
    font-weight: bold;
@@ -9,6 +9,9 @@ div{
  * {
    color: white;
    text-align: center;
+   border: 2px solid rgb(9, 255, 0);
+   padding: auto;
+   
  } 
 
 p{
@@ -60,4 +63,11 @@ p{
  
  .fancy {
    background-color: yellow;
+  
  }
+
+ h2{
+  color:black
+  
+ }
+ 
